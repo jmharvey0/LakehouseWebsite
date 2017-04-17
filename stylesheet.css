@@ -1,0 +1,17 @@
+body{
+	background: #0000A0;
+}
+
+h1{
+	color:gold;
+}
+
+li{
+	padding-top: 3em;
+	color: gold;
+	font-weight: bold;
+}
+
+p{
+	color: white;
+}

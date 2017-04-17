@@ -1,0 +1,57 @@
+body{
+	background: #0000A0;
+}
+
+h1{
+	display: block;
+	color:gold;
+	justify-content: center;
+	align-content: center;
+	width: 100%;
+	margin-left: 30%;
+}
+
+img{
+	padding: 10px;
+	border: 3px solid white;
+}
+
+li{
+	font-size: 32px;
+	padding-top: 3em;
+	color: gold;
+	font-weight: bold;
+}
+
+p{
+	color: white;
+}
+
+.form{
+	color: white;
+}
+
+button{
+	background-color: gold;
+	border-color: #0000A0;
+}
+
+footer{
+	background-color: gold;
+	color: blue;
+}
+
+a:link{
+	display: inline-block;
+	margin-right:10%;
+	color: blue;
+	font-size: 24px;
+}
+
+a:visited{
+	color: green;
+}
+
+a:hover{
+	color: hotpink;
+}
